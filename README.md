@@ -8,20 +8,20 @@ Proyecto final · Fundamentos de Construcción de Software
 ## Proyecto Final 
 Creada por el equipo de BioSync Tech, SALUD INTEGRAL es una app móvil hecha con amor y empatía para cuidar a nuestros adultos mayores. Usando IA y voz, alivia la carga de los cuidadores, organiza citas y evita que los medicamentos se venzan, devolviendo la tranquilidad y dignidad a las familias.
 
-
-| Rol           | Responsable | 
-|---------------|-------------| 
-| Líder         | <Nombre>    | 
-| Desarrollo    | <Nombre>    |
-| Pruebas       | <Nombre>    |
-| Documentación | <Nombre>    | 
-
 # Roles del equipo - BioSync-Tech
+|      Rol      | Responsable | 
+|---------------|-------------| 
+| Líder         | Cristian Vargas | 
+| Desarrollo    | Juan Ramírez |
+| Pruebas       | Cristian - Juan - Vavier |
+| Documentación | Javier Sánchez    | 
+
+
 | Rol           | Responsable |
 | Líder         | Cristian Vargas |
 | Desarrollo    | NJuan Ramírez | 
 | Pruebas       | <Nombre>    | 
-| Documentación | <Javier Sánchez> | 
+| Documentación | <> | 
 
 
 
