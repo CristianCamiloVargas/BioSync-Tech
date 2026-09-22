@@ -16,7 +16,7 @@ Creada por el equipo de BioSync Tech, SALUD INTEGRAL es una app móvil hecha con
 | Pruebas       | Cristian - Juan - Vavier |
 | Documentación | Javier Sánchez    | 
 
-# Acuerdos del equipo
+# Acuerdos del equipo - BioSync-Tech
 
 ## Comunicación
 <Canal oficial y tiempo máximo de respuesta>
