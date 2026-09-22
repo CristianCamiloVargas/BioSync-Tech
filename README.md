@@ -19,3 +19,5 @@ Participacion del repositorio de Juan David Ramirez Manrique :)
 Proyecto enfocado a la poblacion de adultos mayores en tema de la salud.
 
 App con soluciones integrales para solucionar probleas de organizacion de citas.
+
+Creación de carpeta para la digitalización de formulas medicas, citas medicas, incapacidades.
