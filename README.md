@@ -11,3 +11,4 @@ Paso 3
 Clonar el repositorio de GitHub usando Git en la laptop de un integrante del equipo "BioSync-Tech"
 
 Avanzar en el proyecto
+Participación del repositorio de Javier Sánchez
