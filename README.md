@@ -1,43 +1,53 @@
-# Equipo BioSync-Tech   
-Proyecto final · Fundamentos de Construcción de Software   
-## Integrantes
-- Cristian Camilo Vargas Ramírez
-- Juan David Ramírez Manrique
-- Javier Humberto Sánchez Sánchez
-  
-## Proyecto Final 
-Creada por el equipo de BioSync Tech, SALUD INTEGRAL es una app móvil hecha con amor y empatía para cuidar a nuestros adultos mayores. Usando IA y voz, alivia la carga de los cuidadores, organiza citas y evita que los medicamentos se venzan, devolviendo la tranquilidad y dignidad a las familias.
+# 🚀 BioSync-Tech | Salud Integral
 
-# Roles del equipo - BioSync-Tech
-|      Rol      | Responsable | 
-|---------------|-------------| 
-| Líder         | Cristian Vargas | 
-| Desarrollo    | Juan Ramírez |
-| Pruebas       | Cristian - Juan - Vavier |
-| Documentación | Javier Sánchez    | 
+> **Proyecto Final — Fundamentos de Construcción de Software**  
+> *Fundación Universitaria Compensar* 🎓
 
-# Acuerdos del equipo - BioSync-Tech
+---
 
-## Comunicación
-<Canal oficial y tiempo máximo de respuesta>
+## 👥 Integrantes del Equipo
+- **Cristian Camilo Vargas Ramírez** — Líder de Proyecto
+- **Juan David Ramírez Manrique** — Desarrollo y Arquitectura
+- **Javier Humberto Sánchez Sánchez** — Documentación y Calidad
 
-## Reuniones
-<Cuándo, cuánto duran y por dónde>
+---
 
-## Decisiones
-<Cómo deciden: consenso, votación...>
+## 📱 Acerca del Proyecto
+**Salud Integral** es una aplicación móvil a la medida, desarrollada con un enfoque centrado en el usuario, diseñada para mitigar la fragmentación en la atención médica de los adultos mayores y sus cuidadores. 
 
-## Conflictos
-<Qué hacen si no están de acuerdo>
+Mediante el uso de **Inteligencia Artificial (IA)**, procesamiento de voz y una arquitectura robusta en **Flutter (Dart)** y **Firebase**, la app centraliza la gestión documental, automatiza alarmas de medicamentos en tiempo real y previene el vencimiento de recetas. BioSync-Tech transforma la tecnología en un puente de empatía y dignidad para las familias.
 
+---
 
+## 💻 Roles del Equipo
 
+| Rol Principal | Responsable |
+| :--- | :--- |
+| 👑 **Líder de Proyecto** | Cristian Camilo Vargas Ramírez |
+| ⚡ **Desarrollo y Backend** | Juan David Ramírez Manrique |
+| 📄 **Documentación Técnica** | Javier Humberto Sánchez Sánchez |
+| 🧪 **Pruebas y Aseguramiento (QA)** | Equipo BioSync-Tech |
 
+---
 
+## 🤝 Acuerdos de Trabajo (Working Agreements)
 
+### 💬 1. Comunicación
+* **Canal oficial:** Microsoft Teams (chats grupales específicos y reuniones virtuales en vivo con uso compartido de pantalla).
+* **Dinámica:** Sincronización continua basada en el avance de los sprints y asignación de tareas técnicas.
 
+### 📅 2. Reuniones y Disponibilidad
+* **Frecuencia virtual:** Día de por medio en bloques de trabajo estructurados:
+  * 🌅 *Mañana:* 10:00 AM 
+  * 🌙 *Noche:* 11:00 PM a 01:00 AM (según requerimientos de entrega).
+* **Espacios presenciales:** Encuentros en la Fundación Universitaria Compensar antes y después de las jornadas de clase.
 
+### ⚖️ 3. Toma de Decisiones
+* **Metodología:** Consenso y votación democrática. Cada integrante posee voz y voto.
+* **Fundamentación:** Las propuestas de código y arquitectura se debaten tras consultar fuentes técnicas formales (documentación oficial, repositorios de referencia y artículos académicos), asegurando decisiones informadas para el proyecto.
 
+### 🛡️ 4. Gestión de Conflictos
+* **Enfoque colaborativo:** Ante discrepancias técnicas o de organización, se prioriza el diálogo constructivo para hallar un punto de acuerdo que beneficie la calidad del software y mantenga la cohesión del equipo **BioSync-Tech**.
 
 
 Paso 1
