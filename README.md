@@ -59,24 +59,24 @@ Mediante el uso de **Inteligencia Artificial (IA)**, procesamiento de voz y una 
 ## 🚀 Tareas asignadas del Proyecto
 
 - [ ] **Estructuración y Configuración Base**
-  - [ ] Configuración del entorno de desarrollo en Visual Studio Code con Flutter (Dart) y conexión inicial a Firebase. *(Responsable: Juan Ramírez)*
-  - [ ] Creación de la estructura de ramas en Git y flujos de trabajo en equipo. *(Responsable: Cristian Vargas)*
+- [ ] Configuración del entorno de desarrollo en Visual Studio Code con Flutter (Dart) y conexión inicial a Firebase. *(Responsable: Juan Ramírez)*
+- [ ] Creación de la estructura de ramas en Git y flujos de trabajo en equipo. *(Responsable: Cristian Vargas)*
 
 - [ ] **Arquitectura y Modelado de Datos (POO)**
-  - [ ] Implementación de las clases principales (`Paciente`, `Cuidador`, `Orden Medica`, `Medicamento` y `Notificaciones`) en Java/C++ y su adaptación lógica a Dart. *(Responsable: Juan Ramírez)*
+- [ ] Implementación de las clases principales (`Paciente`, `Cuidador`, `Orden Medica`, `Medicamento` y `Notificaciones`) en Java/C++ y su adaptación lógica a Dart. *(Responsable: Juan Ramírez)*
 
 - [ ] **Módulos Core de la Aplicación**
-  - [ ] **Gestión Documental con IA:** Desarrollo del escáner inteligente para órdenes médicas y recetas de múltiples especialistas. *(Responsable: Cristian Vargas)*
-  - [ ] **Pastillero y Alarmas en Tiempo Real:** Configuración de notificaciones *push* sincronizadas para la toma de medicamentos y prevención de vencimientos. *(Responsable: Juan Ramírez)*
-  - [ ] **Asistente de Voz Inclusivo:** Integración de comandos de voz para facilitar el acceso a los adultos mayores. *(Responsable: Equipo BioSync-Tech)*
-  - [ ] **Canal Supersalud:** Creación de la interfaz automatizada para la radicación de quejas por retrasos o escasez de medicamentos. *(Responsable: Cristian Vargas)*
+- [ ] **Gestión Documental con IA:** Desarrollo del escáner inteligente para órdenes médicas y recetas de múltiples especialistas. *(Responsable: Cristian Vargas)*
+- [ ] **Pastillero y Alarmas en Tiempo Real:** Configuración de notificaciones *push* sincronizadas para la toma de medicamentos y prevención de vencimientos. *(Responsable: Juan Ramírez)*
+- [ ] **Asistente de Voz Inclusivo:** Integración de comandos de voz para facilitar el acceso a los adultos mayores. *(Responsable: Equipo BioSync-Tech)*
+- [ ] **Canal Supersalud:** Creación de la interfaz automatizada para la radicación de quejas por retrasos o escasez de medicamentos. *(Responsable: Cristian Vargas)*
 
 - [ ] **Diseño de Interfaz Accesible**
-  - [ ] Maquetación de pantallas con botones de alto contraste y tipografías ampliadas orientadas a la tercera edad. *(Responsable: Cristian Vargas)*
+- [ ] Maquetación de pantallas con botones de alto contraste y tipografías ampliadas orientadas a la tercera edad. *(Responsable: Cristian Vargas)*
 
 - [ ] **Documentación y Aseguramiento de Calidad (QA)**
-  - [ ] Redacción y compilación de la documentación académica en LaTeX bajo normas APA 7ª edición. *(Responsable: Javier Sánchez)*
-  - [ ] Ejecución de pruebas funcionales, pruebas unitarias y validación de usabilidad en dispositivos móviles. *(Responsable: Equipo BioSync-Tech)*
+- [ ] Redacción y compilación de la documentación académica en LaTeX bajo normas APA 7ª edición. *(Responsable: Javier Sánchez)*
+- [ ] Ejecución de pruebas funcionales, pruebas unitarias y validación de usabilidad en dispositivos móviles. *(Responsable: Equipo BioSync-Tech)*
 
 ## 🛠️ Cómo Trabajamos
 Para garantizar un desarrollo ágil, ordenado y colaborativo en el proyecto **Salud Integral**, nos basamos en los siguientes lineamientos y documentación interna del equipo BioSync-Tech:
