@@ -6,9 +6,9 @@
 ---
 
 ## 👥 Integrantes del Equipo
-- **Cristian Camilo Vargas Ramírez** — Líder de Proyecto
-- **Juan David Ramírez Manrique** — Desarrollo y Arquitectura
-- **Javier Humberto Sánchez Sánchez** — Documentación y Calidad
+- **Cristian Camilo Vargas Ramírez**
+- **Juan David Ramírez Manrique**
+- **Javier Humberto Sánchez Sánchez**
 
 ---
 
@@ -23,10 +23,10 @@ Mediante el uso de **Inteligencia Artificial (IA)**, procesamiento de voz y una 
 
 | Rol Principal | Responsable |
 | :--- | :--- |
-| 👑 **Líder de Proyecto** | Cristian Camilo Vargas Ramírez |
-| ⚡ **Desarrollo y Backend** | Juan David Ramírez Manrique |
-| 📄 **Documentación Técnica** | Javier Humberto Sánchez Sánchez |
-| 🧪 **Pruebas y Aseguramiento (QA)** | Equipo BioSync-Tech |
+| 👑 **Líder** | Cristian C. Vargas R. |
+| ⚡ **Desarrollo** | Juan D. Ramírez M. |
+| 📄 **Documentación** | Javier H. Sánchez S. |
+| 🧪 **Pruebas (QA)** | Equipo BioSync-Tech |
 
 ---
 
