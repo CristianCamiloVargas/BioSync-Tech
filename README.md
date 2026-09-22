@@ -1,4 +1,4 @@
-# Equipo <BioSync-Tech>   
+# Equipo BioSync-Tech   
 Proyecto final · Fundamentos de Construcción de Software   
 ## Integrantes
 - <Cristian Camilo Vargas Ramírez>
