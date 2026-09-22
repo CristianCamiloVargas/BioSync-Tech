@@ -10,3 +10,4 @@ Copiar el link o url del repositorio con el nombre del equipo "BioSync-Tech"
 Paso 3
 Clonar el repositorio de GitHub usando Git en la laptop de un integrante del equipo "BioSync-Tech"
 
+Avanzar en el proyecto
