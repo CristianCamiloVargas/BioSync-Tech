@@ -5,8 +5,24 @@ Proyecto final · Fundamentos de Construcción de Software
 - Juan David Ramírez Manrique
 - Javier Humberto Sánchez Sánchez
   
-## Proyecto <BioSync-Tech> 
+## Proyecto Final 
 Creada por el equipo de BioSync Tech, SALUD INTEGRAL es una app móvil hecha con amor y empatía para cuidar a nuestros adultos mayores. Usando IA y voz, alivia la carga de los cuidadores, organiza citas y evita que los medicamentos se venzan, devolviendo la tranquilidad y dignidad a las familias.
+
+# Roles del equipo - BioSync-Tech
+| Rol           | Responsable |
+| Líder         | Cristian Vargas |
+| Desarrollo    | NJuan Ramírez | 
+| Pruebas       | <Nombre>    | 
+| Documentación | <Javier Sánchez> | 
+
+
+
+
+
+
+
+
+
 
 Paso 1
 Creación del repositorio de GitHub con un usuario de cualquier integrante del equipo "BioSync-Tech"
