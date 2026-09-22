@@ -1,9 +1,10 @@
 # Equipo BioSync-Tech   
 Proyecto final · Fundamentos de Construcción de Software   
 ## Integrantes
-- <Cristian Camilo Vargas Ramírez>
-- <Juan David Ramírez Manrique>
-- <Javier Humberto Sánchez Sánchez>
+- Cristian Camilo Vargas Ramírez
+- Juan David Ramírez Manrique
+- Javier Humberto Sánchez Sánchez
+  
 ## Proyecto <BioSync-Tech> 
 Creada por el equipo de BioSync Tech, SALUD INTEGRAL es una app móvil hecha con amor y empatía para cuidar a nuestros adultos mayores. Usando IA y voz, alivia la carga de los cuidadores, organiza citas y evita que los medicamentos se venzan, devolviendo la tranquilidad y dignidad a las familias.
 
