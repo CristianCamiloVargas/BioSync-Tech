@@ -16,12 +16,20 @@ Creada por el equipo de BioSync Tech, SALUD INTEGRAL es una app móvil hecha con
 | Pruebas       | Cristian - Juan - Vavier |
 | Documentación | Javier Sánchez    | 
 
+# Acuerdos del equipo
 
-| Rol           | Responsable |
-| Líder         | Cristian Vargas |
-| Desarrollo    | NJuan Ramírez | 
-| Pruebas       | <Nombre>    | 
-| Documentación | <> | 
+## Comunicación
+<Canal oficial y tiempo máximo de respuesta>
+
+## Reuniones
+<Cuándo, cuánto duran y por dónde>
+
+## Decisiones
+<Cómo deciden: consenso, votación...>
+
+## Conflictos
+<Qué hacen si no están de acuerdo>
+
 
 
 
